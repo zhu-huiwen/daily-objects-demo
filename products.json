@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "p101",
+      "name": "随行笔记本",
+      "category": "文具",
+      "price": 38,
+      "color": "#d5c3a6",
+      "shape": "notebook",
+      "description": "把灵感留在纸上。",
+      "stock": 126
+    },
+    {
+      "id": "p102",
+      "name": "机械键盘 K87",
+      "category": "数码",
+      "price": 399,
+      "color": "#becbc5",
+      "shape": "keyboard",
+      "description": "每一次敲击，都恰到好处。",
+      "stock": 48
+    },
+    {
+      "id": "p103",
+      "name": "桌面阅读灯",
+      "category": "生活",
+      "price": 169,
+      "color": "#dfc8a6",
+      "shape": "lamp",
+      "description": "给专注的夜晚，一束柔光。",
+      "stock": 72
+    },
+    {
+      "id": "p104",
+      "name": "无线耳机 Air",
+      "category": "数码",
+      "price": 259,
+      "color": "#c5cdd8",
+      "shape": "headphones",
+      "description": "让世界安静，让音乐靠近。",
+      "stock": 35
+    },
+    {
+      "id": "p105",
+      "name": "陶瓷马克杯",
+      "category": "生活",
+      "price": 69,
+      "color": "#d7bdb4",
+      "shape": "cup",
+      "description": "从一杯温热，开始新的一天。",
+      "stock": 96
+    },
+    {
+      "id": "p106",
+      "name": "中性笔套装",
+      "category": "文具",
+      "price": 29,
+      "color": "#c4cbb1",
+      "shape": "pens",
+      "description": "落笔流畅，记录日常。",
+      "stock": 210
+    }
+  ]
+}
